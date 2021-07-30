@@ -1,0 +1,418 @@
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[0.07209376, 51.85433474]
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-0.13608912, 51.50413561]
+[-0.14367274, 51.55141874]
+[-0.13608912, 51.50413561]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[18.46878242, -33.94585958]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+("Connection broken: error(104, 'Connection reset by peer')", error(104, 'Connection reset by peer'))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[139.48086917, 35.30106558]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-73.47935661, 45.6677507]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-84.35462908, 33.77038574]
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+("Connection broken: error(104, 'Connection reset by peer')", error(104, 'Connection reset by peer'))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+("Connection broken: error(104, 'Connection reset by peer')", error(104, 'Connection reset by peer'))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-73.47935661, 45.6677507]
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-73.56726563, 45.63697547]
+[0.1195, 51.5033]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+---------------->An error has occured! Status code = 500 at 2020-11-07 17:52:51.085710
+
+[-122.2486109, 47.4454314]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+tar: Removing leading `/' from member names
+/streamings//t-hoarder/store/streaming_ed-data1_0.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+new pack
+tar -czvf /streamings//t-hoarder/store/streaming_ed-data1_0.txt.tar.gz /streamings//t-hoarder/store/streaming_ed-data1_0.txt
+
+rm /streamings//t-hoarder/store/streaming_ed-data1_0.txt
+
+[-47.108347, -22.92562083]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-84.5399451, 42.6643025]
+[103.7123, 1.3513]
+[-117.1585, 32.7155]
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[0.36462, 51.43282]
+[0.05173177, 52.28036162]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[0.05173177, 52.28036162]
+('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-73.47935661, 45.6677507]
+[78.96288, 20.593684]
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+("Connection broken: error(104, 'Connection reset by peer')", error(104, 'Connection reset by peer'))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-0.1373291, 51.49506473]
+[55.2741, 25.1994]
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-0.13355317, 51.49594393]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-75.08890462, 40.18018018]
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[77.19102783, 28.5974128]
+("Connection broken: error(104, 'Connection reset by peer')", error(104, 'Connection reset by peer'))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+("Connection broken: error(104, 'Connection reset by peer')", error(104, 'Connection reset by peer'))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+---------------->An error has occured! Status code = 420 at 2020-11-25 17:13:34.273271
+
+[-73.56726563, 45.63697547]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-0.53782683, 52.39170171]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+tar: Removing leading `/' from member names
+/streamings//t-hoarder/store/streaming_ed-data1_1.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+new pack
+tar -czvf /streamings//t-hoarder/store/streaming_ed-data1_1.txt.tar.gz /streamings//t-hoarder/store/streaming_ed-data1_1.txt
+
+rm /streamings//t-hoarder/store/streaming_ed-data1_1.txt
+
+[0.05173177, 52.28036162]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-87.7479528, 41.719978]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-94.7891985, 29.2958921]
+[-85.21986, 32.48146]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[0.121708, 52.205328]
+[-122.6765, 45.520799]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-1.25140012, 54.56446025]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-3.54373, 50.46788]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+('Connection broken: IncompleteRead(4 bytes read)', IncompleteRead(4 bytes read))
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt
+-->File output:  /streamings//t-hoarder/store/streaming_ed-data1.txt
+autenticated
+track for ['anorexia', ' anorexic', ' dietary disorders', ' inappetence', ' feeding disorder', ' food problem', ' binge eating', ' anorectic']
+Init Files_output /streamings//t-hoarder/store/ streaming_ed-data1 txt
+[-115.2002063, 36.1449014]
+[-74.2404, 39.5613]
+global name 'start_time' is not defined
+run command python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data1 my_app.key jabenitez88.key --words words.txt

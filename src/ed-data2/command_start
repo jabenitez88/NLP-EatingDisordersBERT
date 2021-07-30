@@ -1,0 +1,1 @@
+nohup bash tweet_streaming_persistent 'python2.7 /streamings//t-hoarder/scripts/tweet_streaming_large.py /streamings/ ed-data2 my_app.key jabenitez881.key --words words.txt' &
